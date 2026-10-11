@@ -1,0 +1,5 @@
+# This excludes local environments and common temporary files
+.venv/
+__pycache__/
+.pytest_cache/
+.env
